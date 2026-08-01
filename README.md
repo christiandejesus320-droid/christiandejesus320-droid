@@ -6,6 +6,14 @@
   [![Meridian](https://img.shields.io/badge/CONSTRUYENDO-MERIDIAN-00FF66?style=for-the-badge&labelColor=050505)](https://meridian-completo.vercel.app)
   [![Showcase](https://img.shields.io/badge/VER-SHOWCASE-00FF66?style=for-the-badge&labelColor=050505)](https://github.com/christiandejesus320-droid/-meridian-showcase)
   [![Santo Domingo](https://img.shields.io/badge/SANTO%20DOMINGO-REPÚBLICA%20DOMINICANA-00FF66?style=for-the-badge&labelColor=050505)](https://www.google.com/maps/search/?api=1&query=Santo+Domingo%2C+Dominican+Republic)
+
+  <br /><br />
+
+  [![Instagram](https://img.shields.io/badge/Instagram-____christian__noir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/____christian_noir/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20de%20Jesús-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-de-jesus-307922260/)
+  [![Website](https://img.shields.io/badge/Web-Christian%20Studio-00FF66?style=for-the-badge&logo=googlechrome&logoColor=050505)](https://christianstudio.forum/)
+  [![Email](https://img.shields.io/badge/Email-christiandejesus320%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiandejesus320@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-christiandejesus320--droid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christiandejesus320-droid)
 </div>
 
 ## Soy Christian
@@ -82,18 +90,6 @@ Para mí, Meridian no es solamente software. Representa años de aprendizaje, di
 - **Seguridad por diseño.** Los datos, permisos y secretos deben tratarse como parte central del producto.
 - **IA con control.** Los modelos deben operar mediante herramientas y permisos explícitos.
 - **Evolución constante.** Un producto nunca está terminado; se observa, se corrige y se mejora.
-
-## Conecta conmigo
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-____christian__noir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/____christian_noir/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20de%20Jesús-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-de-jesus-307922260/)
-[![Website](https://img.shields.io/badge/Web-Christian%20Studio-00FF66?style=for-the-badge&logo=googlechrome&logoColor=050505)](https://christianstudio.forum/)
-[![Email](https://img.shields.io/badge/Email-christiandejesus320%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiandejesus320@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-christiandejesus320--droid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christiandejesus320-droid)
-
-</div>
 
 ---
 
