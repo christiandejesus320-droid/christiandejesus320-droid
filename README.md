@@ -1,4 +1,4 @@
-```text
+<pre align="center">
 ███╗   ███╗███████╗██████╗ ██╗██████╗ ██╗ █████╗ ███╗   ██╗
 ████╗ ████║██╔════╝██╔══██╗██║██╔══██╗██║██╔══██╗████╗  ██║
 ██╔████╔██║█████╗  ██████╔╝██║██║  ██║██║███████║██╔██╗ ██║
@@ -8,202 +8,186 @@
 ===========================================================
      B U I L D I N G   T H E   O P E R A T I N G   L A Y E R
 ===========================================================
-```
+</pre>
 
 <div align="center">
 
-`CHRISTIAN JUNIOR DE JESÚS` · `FOUNDER & CEO` · `SANTO DOMINGO, DR`
+[![Meridian](https://img.shields.io/badge/CONSTRUYENDO-MERIDIAN-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://meridian-completo.vercel.app)
+[![Showcase](https://img.shields.io/badge/VER-SHOWCASE-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/-meridian-showcase)
+[![Meridian Design](https://img.shields.io/badge/EXPLORAR-MERIDIAN%20DESIGN-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/Meridian-Design-2v1)
 
-[ `OPEN MERIDIAN` ](https://meridian-completo.vercel.app) &nbsp; [ `PRODUCT SHOWCASE` ](https://github.com/christiandejesus320-droid/-meridian-showcase) &nbsp; [ `MERIDIAN DESIGN` ](https://github.com/christiandejesus320-droid/Meridian-Design-2v1)
+<br />
+
+[![Instagram](https://img.shields.io/badge/Instagram-____christian__noir-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.instagram.com/____christian_noir/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20de%20Jesús-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.linkedin.com/in/christian-de-jesus-307922260/)
+[![Website](https://img.shields.io/badge/Web-Christian%20Studio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://christianstudio.forum/)
+[![Email](https://img.shields.io/badge/Email-christiandejesus320%40gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](mailto:christiandejesus320@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-christiandejesus320--droid-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid)
 
 </div>
 
 ---
 
-## 01 / SYSTEM IDENTITY
+## 01 / SOY CHRISTIAN
 
-<table>
-  <tr>
-    <td><code>OPERATOR</code></td>
-    <td><strong>Christian Junior de Jesús</strong></td>
-  </tr>
-  <tr>
-    <td><code>ROLE</code></td>
-    <td>Founder, Product Builder and Creative Director</td>
-  </tr>
-  <tr>
-    <td><code>LOCATION</code></td>
-    <td>Santo Domingo, República Dominicana</td>
-  </tr>
-  <tr>
-    <td><code>PRIMARY SYSTEM</code></td>
-    <td>Meridian — AI-native business operating platform</td>
-  </tr>
-  <tr>
-    <td><code>MISSION</code></td>
-    <td>Convertir contexto, datos y trabajo disperso en una sola capa operativa.</td>
-  </tr>
-</table>
+Soy **Christian Junior de Jesús**, emprendedor, creador de productos digitales y fundador de **Meridian**. Construyo desde **Santo Domingo, República Dominicana**, con una visión clara: convertir ideas complejas en productos que ayuden a personas y empresas a trabajar con más orden, inteligencia y control.
 
-```text
-$ whoami
-Christian Junior de Jesús
+No empecé con capital, contactos ni un gran equipo. Empecé aprendiendo por mi cuenta, trabajando y construyendo en paralelo, muchas veces después de una jornada larga y con recursos limitados. He tenido que cuidar cada gasto entre la casa, el internet y las herramientas necesarias para continuar aprendiendo. También he visto errores de código, integraciones rotas, despliegues fallidos y proyectos que parecían no avanzar.
 
-$ current_objective
-Build Meridian into a secure, intelligent and scalable operating layer
-for modern business teams.
-```
+Pero seguí.
+
+Cada problema me obligó a entender algo nuevo: APIs, bases de datos, autenticación, inteligencia artificial, diseño de producto, GitHub, Vercel, Supabase, Prisma y arquitectura SaaS. Mi historia no es la de alguien que recibió todo preparado; es la de alguien que decidió construir con lo que tenía y mejorar una pieza a la vez.
+
+Para mí, Meridian no es solamente software. Representa años de aprendizaje, disciplina y la intención de crear algo propio desde República Dominicana. No quiero aparentar que ya llegué. Quiero documentar el proceso, hacer el trabajo real y demostrar hasta dónde puede llegar una idea cuando no se abandona.
 
 ---
 
-## 02 / ORIGIN
-
-Soy **Christian Junior de Jesús**. Construyo productos digitales desde Santo Domingo con una combinación de estrategia, diseño, desarrollo e inteligencia artificial.
-
-No empecé con capital, contactos ni un gran equipo. Empecé aprendiendo por mi cuenta, trabajando y construyendo en paralelo, muchas veces después de jornadas largas y con recursos limitados. Tuve que cuidar cada gasto entre la casa, el internet y las herramientas necesarias para seguir aprendiendo.
-
-En el proceso encontré errores de código, integraciones rotas, despliegues fallidos y proyectos que parecían no avanzar. Cada problema terminó convirtiéndose en una nueva capacidad: APIs, autenticación, bases de datos, arquitectura SaaS, IA, producto, diseño, GitHub, Vercel, Supabase y Prisma.
-
-Meridian representa esa evolución. No es solamente una aplicación. Es la prueba de que una idea puede crecer desde República Dominicana cuando se trabaja con disciplina, paciencia y una visión que no se abandona.
-
----
-
-## 03 / ACTIVE SYSTEMS
+## 02 / LO QUE ESTOY CONSTRUYENDO
 
 <table>
   <tr>
-    <td width="22%"><strong>MERIDIAN</strong></td>
-    <td width="58%">Plataforma SaaS empresarial con AI Workspace, CRM, tareas, notas, calendario, analítica, automatizaciones, Skills, integraciones y gestión de equipos.</td>
-    <td width="20%"><a href="https://meridian-completo.vercel.app"><code>OPEN ↗</code></a></td>
-  </tr>
-  <tr>
-    <td><strong>MERIDIAN SHOWCASE</strong></td>
-    <td>Presentación pública del producto, su arquitectura multi-tenant, seguridad, roadmap y stack tecnológico.</td>
-    <td><a href="https://github.com/christiandejesus320-droid/-meridian-showcase"><code>INSPECT ↗</code></a></td>
-  </tr>
-  <tr>
-    <td><strong>MERIDIAN DESIGN</strong></td>
-    <td>Capa visual y creativa del ecosistema: diseño gráfico con IA, experiencias 3D, portfolio, campañas, videos UGC, demostración interactiva del producto y chat público seguro.</td>
-    <td><a href="https://github.com/christiandejesus320-droid/Meridian-Design-2v1"><code>EXPLORE ↗</code></a></td>
-  </tr>
-  <tr>
-    <td><strong>NEXUS SUPER SKILL</strong></td>
-    <td>Sistema de Skills, memoria, verificación, evidencia y ejecución asistida para flujos de desarrollo con IA.</td>
-    <td><a href="https://github.com/christiandejesus320-droid/nexus-super-skill"><code>VIEW ↗</code></a></td>
+    <td width="50%" valign="top">
+      <h3>MERIDIAN</h3>
+      <p>Una plataforma SaaS empresarial que reúne AI Workspace, CRM, tareas, notas, calendario, analítica, automatizaciones, Skills, integraciones y gestión de equipos dentro de un solo entorno.</p>
+      <p><strong>Visión:</strong> reemplazar herramientas desconectadas por un sistema operativo inteligente para el trabajo y el negocio.</p>
+      <a href="https://meridian-completo.vercel.app"><strong>ABRIR MERIDIAN →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>MERIDIAN DESIGN</h3>
+      <p>La capa visual y creativa del ecosistema Meridian: diseño gráfico asistido por IA, experiencias 3D, campañas, marketing, producto interactivo y una presentación editorial del sistema.</p>
+      <p>Incluye una experiencia web responsive, portfolio visual, demostración del producto, recursos, videos UGC y un chat público conectado de forma segura.</p>
+      <a href="https://github.com/christiandejesus320-droid/Meridian-Design-2v1"><strong>EXPLORAR MERIDIAN DESIGN →</strong></a>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 04 / OPERATING MODEL
-
-```text
-INPUT
-  └─ ideas · customer context · business data · operational signals
-
-MERIDIAN
-  ├─ workspace
-  ├─ CRM
-  ├─ tasks / calendar / notes
-  ├─ AI gateway
-  ├─ skills / agents / tools
-  ├─ analytics
-  └─ integrations
-
-OUTPUT
-  └─ decisions · actions · automation · measurable progress
-```
+## 03 / QUÉ HAGO
 
 <table>
   <tr>
-    <td width="33%"><code>01 / PRODUCT</code><br><br>Diseño sistemas SaaS desde la visión inicial hasta la experiencia operativa.</td>
-    <td width="33%"><code>02 / ENGINEERING</code><br><br>Trabajo con frontend, backend, APIs, OAuth, bases de datos y despliegues.</td>
-    <td width="33%"><code>03 / INTELLIGENCE</code><br><br>Construyo AI Gateways, Skills, agentes, herramientas y flujos con permisos.</td>
+    <td width="33%" valign="top">
+      <strong>PRODUCTO</strong><br /><br />
+      Diseño productos SaaS desde la visión inicial hasta su arquitectura y experiencia operativa.
+    </td>
+    <td width="33%" valign="top">
+      <strong>INGENIERÍA</strong><br /><br />
+      Trabajo con frontend, backend, bases de datos, OAuth, APIs y despliegues.
+    </td>
+    <td width="33%" valign="top">
+      <strong>INTELIGENCIA</strong><br /><br />
+      Desarrollo AI Gateways, Skills, agentes, herramientas e integraciones externas.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>DISEÑO</strong><br /><br />
+      Creo identidad visual, experiencias digitales, campañas y conceptos de producto.
+    </td>
+    <td valign="top">
+      <strong>SISTEMAS</strong><br /><br />
+      Conecto datos, personas, workflows y proveedores dentro de una sola capa operativa.
+    </td>
+    <td valign="top">
+      <strong>EJECUCIÓN</strong><br /><br />
+      Convierto errores, pruebas y aprendizajes en sistemas más sólidos.
+    </td>
   </tr>
 </table>
 
 ---
 
-## 05 / TECHNOLOGY LAYER
+## 04 / TECNOLOGÍAS PRINCIPALES
 
-| Layer | Technology | Function | Official |
-|---|---|---|---|
-| Application | `Next.js 16` | Web application, routing and rendering | [nextjs.org](https://nextjs.org/) |
-| Interface | `React 19` | Component system and interaction | [react.dev](https://react.dev/) |
-| Language | `TypeScript 5` | Contracts, typing and maintainability | [typescriptlang.org](https://www.typescriptlang.org/) |
-| Design System | `Tailwind CSS 4` | Responsive interface architecture | [tailwindcss.com](https://tailwindcss.com/) |
-| Data Access | `Prisma ORM` | Typed models, queries and migrations | [prisma.io](https://www.prisma.io/) |
-| Database | `PostgreSQL` | Relational persistence | [postgresql.org](https://www.postgresql.org/) |
-| Data Platform | `Supabase` | Managed database and platform services | [supabase.com](https://supabase.com/) |
-| Deployment | `Vercel` | Build and application delivery | [vercel.com](https://vercel.com/) |
-| Containers | `Docker` | Reproducible environments | [docker.com](https://www.docker.com/) |
-| Source Control | `GitHub` | Version control and engineering workflow | [github.com](https://github.com/) |
+<div align="center">
 
----
+[![Next.js](https://img.shields.io/badge/Next.js-16-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-FFFFFF?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-FFFFFF?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://tailwindcss.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-ORM-FFFFFF?style=for-the-badge&logo=prisma&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.prisma.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-Platform-FFFFFF?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://supabase.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployment-FFFFFF?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://vercel.com/)
+[![Docker](https://img.shields.io/badge/Docker-Containers-FFFFFF?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.docker.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Engineering-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://github.com/)
 
-## 06 / EXECUTION PRINCIPLES
+</div>
 
-```text
-[01] BUILD BEFORE YOU PERFORM
-     Una función real vale más que una promesa visual.
-
-[02] LEARN THROUGH EXECUTION
-     Cada error debe producir conocimiento, documentación o una mejora.
-
-[03] SECURITY IS ARCHITECTURE
-     Datos, permisos y secretos son parte central del producto.
-
-[04] AI REQUIRES CONTROL
-     Los modelos operan mediante tools y permisos explícitos.
-
-[05] SYSTEMS MUST EVOLVE
-     Observar. Medir. Corregir. Repetir.
-```
+| Tecnología | Uso dentro de Meridian | Sitio oficial |
+|---|---|---|
+| `Next.js` | Aplicación web, rutas y renderizado | [nextjs.org](https://nextjs.org/) |
+| `React` | Componentes e interfaz interactiva | [react.dev](https://react.dev/) |
+| `TypeScript` | Tipado, contratos y mantenibilidad | [typescriptlang.org](https://www.typescriptlang.org/) |
+| `Tailwind CSS` | Sistema visual responsive | [tailwindcss.com](https://tailwindcss.com/) |
+| `Prisma` | ORM y acceso tipado a datos | [prisma.io](https://www.prisma.io/) |
+| `PostgreSQL` | Base de datos relacional | [postgresql.org](https://www.postgresql.org/) |
+| `Supabase` | Plataforma administrada de datos | [supabase.com](https://supabase.com/) |
+| `Vercel` | Despliegue de la aplicación | [vercel.com](https://vercel.com/) |
+| `Docker` | Entornos y contenedores | [docker.com](https://www.docker.com/) |
 
 ---
 
-## 07 / NETWORK
+## 05 / PROYECTOS DESTACADOS
+
+| Proyecto | Descripción | Acceso |
+|---|---|---|
+| **Meridian** | Plataforma SaaS empresarial impulsada por IA | [ABRIR](https://meridian-completo.vercel.app) |
+| **Meridian Showcase** | Presentación pública, arquitectura y roadmap del producto | [INSPECCIONAR](https://github.com/christiandejesus320-droid/-meridian-showcase) |
+| **Meridian Design 2v1** | Experiencia creativa con diseño, IA, 3D, marketing y demo interactiva | [EXPLORAR](https://github.com/christiandejesus320-droid/Meridian-Design-2v1) |
+| **Nexus Super Skill** | Sistema de Skills, memoria, verificación y ejecución asistida | [VER](https://github.com/christiandejesus320-droid/nexus-super-skill) |
+
+---
+
+## 06 / MI FORMA DE TRABAJAR
+
+- **Construir antes que aparentar.** Prefiero una función real y comprobable antes que una promesa bonita.
+- **Aprender haciendo.** Cada error debe producir conocimiento, documentación o una mejora.
+- **Seguridad por diseño.** Los datos, permisos y secretos deben tratarse como parte central del producto.
+- **IA con control.** Los modelos deben operar mediante herramientas y permisos explícitos.
+- **Evolución constante.** Un producto nunca está terminado; se observa, se corrige y se mejora.
+
+---
+
+## 07 / CONECTA CONMIGO
 
 <table>
   <tr>
-    <td width="20%"><code>INSTAGRAM</code></td>
+    <td width="20%"><strong>Instagram</strong></td>
     <td width="60%">@____christian_noir</td>
-    <td width="20%"><a href="https://www.instagram.com/____christian_noir/"><code>CONNECT ↗</code></a></td>
+    <td width="20%"><a href="https://www.instagram.com/____christian_noir/">ABRIR ↗</a></td>
   </tr>
   <tr>
-    <td><code>LINKEDIN</code></td>
+    <td><strong>LinkedIn</strong></td>
     <td>Christian de Jesús</td>
-    <td><a href="https://www.linkedin.com/in/christian-de-jesus-307922260/"><code>CONNECT ↗</code></a></td>
+    <td><a href="https://www.linkedin.com/in/christian-de-jesus-307922260/">CONECTAR ↗</a></td>
   </tr>
   <tr>
-    <td><code>WEB</code></td>
+    <td><strong>Web</strong></td>
     <td>Christian Studio</td>
-    <td><a href="https://christianstudio.forum/"><code>OPEN ↗</code></a></td>
+    <td><a href="https://christianstudio.forum/">VISITAR ↗</a></td>
   </tr>
   <tr>
-    <td><code>EMAIL</code></td>
+    <td><strong>Email</strong></td>
     <td>christiandejesus320@gmail.com</td>
-    <td><a href="mailto:christiandejesus320@gmail.com"><code>SEND ↗</code></a></td>
+    <td><a href="mailto:christiandejesus320@gmail.com">ESCRIBIR ↗</a></td>
   </tr>
   <tr>
-    <td><code>GITHUB</code></td>
+    <td><strong>GitHub</strong></td>
     <td>christiandejesus320-droid</td>
-    <td><a href="https://github.com/christiandejesus320-droid"><code>FOLLOW ↗</code></a></td>
+    <td><a href="https://github.com/christiandejesus320-droid">SEGUIR ↗</a></td>
   </tr>
 </table>
 
 ---
-
-```text
-STATUS   : ACTIVE DEVELOPMENT
-FOCUS    : MERIDIAN
-MODE     : BUILD / TEST / REFINE / SHIP
-LOCATION : SANTO DOMINGO, DOMINICAN REPUBLIC
-```
 
 <div align="center">
 
 **CHRISTIAN JUNIOR DE JESÚS**  
-`BUILDING WITH WHAT I HAVE. LEARNING WHAT IS MISSING. NOT ABANDONING THE VISION.`
+Fundador y CEO de Meridian  
+Santo Domingo, República Dominicana
+
+`CONSTRUYENDO CON LO QUE TENGO. APRENDIENDO LO QUE FALTA. SIN ABANDONAR LA VISIÓN.`
 
 </div>
