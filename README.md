@@ -1,41 +1,51 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Christian Junior de Jesús — Founder and CEO of Meridian" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Christian Junior de Jesús — Fundador y CEO de Meridian" />
 
   <br />
 
-  [![Meridian](https://img.shields.io/badge/BUILDING-MERIDIAN-00FF66?style=for-the-badge&labelColor=050505)](https://meridian-completo.vercel.app)
-  [![Showcase](https://img.shields.io/badge/VIEW-PRODUCT%20SHOWCASE-00FF66?style=for-the-badge&labelColor=050505)](https://github.com/christiandejesus320-droid/-meridian-showcase)
-  [![Location](https://img.shields.io/badge/SANTO%20DOMINGO-DOMINICAN%20REPUBLIC-00FF66?style=for-the-badge&labelColor=050505)](https://www.google.com/maps/search/?api=1&query=Santo+Domingo%2C+Dominican+Republic)
+  [![Meridian](https://img.shields.io/badge/CONSTRUYENDO-MERIDIAN-00FF66?style=for-the-badge&labelColor=050505)](https://meridian-completo.vercel.app)
+  [![Showcase](https://img.shields.io/badge/VER-SHOWCASE-00FF66?style=for-the-badge&labelColor=050505)](https://github.com/christiandejesus320-droid/-meridian-showcase)
+  [![Santo Domingo](https://img.shields.io/badge/SANTO%20DOMINGO-REPÚBLICA%20DOMINICANA-00FF66?style=for-the-badge&labelColor=050505)](https://www.google.com/maps/search/?api=1&query=Santo+Domingo%2C+Dominican+Republic)
 </div>
 
-## Sobre mí
+## Soy Christian
 
-Soy **Christian Junior de Jesús**, fundador y CEO de **Meridian**. Construyo software SaaS impulsado por inteligencia artificial para centralizar operaciones, relaciones con clientes, productividad, automatizaciones e inteligencia empresarial dentro de un solo entorno.
+Soy **Christian Junior de Jesús**, emprendedor, creador de productos digitales y fundador de **Meridian**. Construyo desde **Santo Domingo, República Dominicana**, con una visión clara: convertir ideas complejas en productos que ayuden a personas y empresas a trabajar con más orden, inteligencia y control.
 
-Mi trabajo combina **estrategia de producto, arquitectura SaaS, inteligencia artificial, integraciones y experiencia de usuario**. El objetivo actual es desarrollar Meridian como una plataforma B2B segura, escalable y capaz de coordinar personas, datos, workflows y servicios externos desde una sola capa operativa.
+No empecé con capital, contactos ni un gran equipo. Empecé aprendiendo por mi cuenta, trabajando y construyendo en paralelo, muchas veces después de una jornada larga y con recursos limitados. He tenido que cuidar cada gasto entre la casa, el internet y las herramientas necesarias para continuar aprendiendo. También he visto errores de código, integraciones rotas, despliegues fallidos y proyectos que parecían no avanzar.
 
-## Construyendo Meridian
+Pero seguí.
+
+Cada problema me obligó a entender algo nuevo: APIs, bases de datos, autenticación, inteligencia artificial, diseño de producto, GitHub, Vercel, Supabase, Prisma y arquitectura SaaS. Mi historia no es la de alguien que recibió todo preparado; es la de alguien que decidió construir con lo que tenía y mejorar una pieza a la vez.
+
+Para mí, Meridian no es solamente software. Representa años de aprendizaje, disciplina y la intención de crear algo propio desde República Dominicana. No quiero aparentar que ya llegué. Quiero documentar el proceso, hacer el trabajo real y demostrar hasta dónde puede llegar una idea cuando no se abandona.
+
+## Lo que estoy construyendo
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>Meridian</h3>
-      <p>Workspace empresarial con AI Workspace, CRM, tareas, notas, calendario, analítica, automatizaciones, Skills, integraciones y gestión de equipos.</p>
-      <p><strong>Dirección del producto:</strong> un sistema operativo inteligente en lugar de herramientas desconectadas.</p>
-      <a href="https://github.com/christiandejesus320-droid/-meridian-showcase"><strong>Ver presentación completa →</strong></a>
+      <p>Una plataforma SaaS empresarial que reúne AI Workspace, CRM, tareas, notas, calendario, analítica, automatizaciones, Skills, integraciones y gestión de equipos dentro de un solo entorno.</p>
+      <p><strong>Visión:</strong> reemplazar herramientas desconectadas por un sistema operativo inteligente para el trabajo y el negocio.</p>
+      <a href="https://meridian-completo.vercel.app"><strong>Abrir Meridian →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Prioridades actuales</h3>
-      <ul>
-        <li>AI Gateway y orquestación de proveedores</li>
-        <li>Arquitectura SaaS multi-tenant segura</li>
-        <li>CRM y workflows de productividad</li>
-        <li>Skills, agentes e integraciones externas</li>
-        <li>Controles de uso, suscripciones y analítica</li>
-      </ul>
+      <h3>Meridian Design</h3>
+      <p>La capa visual y creativa del ecosistema Meridian: diseño gráfico asistido por IA, experiencias 3D, campañas, marketing, producto interactivo y una presentación editorial del sistema.</p>
+      <p>Incluye una experiencia web responsive, portfolio visual, demostración del producto, recursos, videos UGC y un chat público conectado de forma segura.</p>
+      <a href="https://github.com/christiandejesus320-droid/Meridian-Design-2v1"><strong>Explorar Meridian Design →</strong></a>
     </td>
   </tr>
 </table>
+
+## Qué hago
+
+- Diseño productos SaaS desde la visión inicial hasta su arquitectura y experiencia de usuario.
+- Desarrollo sistemas con IA, herramientas, Skills, agentes e integraciones externas.
+- Trabajo con frontend, backend, bases de datos, OAuth, APIs y despliegues.
+- Creo identidad visual, experiencias digitales, campañas y conceptos de producto.
+- Convierto errores, pruebas y aprendizajes en sistemas más sólidos.
 
 ## Tecnologías principales
 
@@ -54,41 +64,42 @@ Mi trabajo combina **estrategia de producto, arquitectura SaaS, inteligencia art
 
 </div>
 
-> Todos los botones son interactivos y abren la documentación o página oficial de cada tecnología.
+> Cada insignia abre la página oficial de su tecnología. No uso tarjetas de estadísticas generadas ni métricas decorativas que puedan parecer falsas.
 
-| Tecnología | Uso dentro de Meridian | Sitio oficial |
+## Proyectos destacados
+
+| Proyecto | Descripción | Acceso |
 |---|---|---|
-| Next.js | Aplicación web, rutas y renderizado | [nextjs.org](https://nextjs.org/) |
-| React | Componentes e interfaz interactiva | [react.dev](https://react.dev/) |
-| TypeScript | Tipado, contratos y mantenibilidad | [typescriptlang.org](https://www.typescriptlang.org/) |
-| Tailwind CSS | Sistema visual responsive | [tailwindcss.com](https://tailwindcss.com/) |
-| Prisma | ORM y acceso tipado a datos | [prisma.io](https://www.prisma.io/) |
-| PostgreSQL | Base de datos relacional | [postgresql.org](https://www.postgresql.org/) |
-| Supabase | Plataforma administrada de datos | [supabase.com](https://supabase.com/) |
-| Vercel | Despliegue de la aplicación | [vercel.com](https://vercel.com/) |
-| Docker | Entornos y contenedores | [docker.com](https://www.docker.com/) |
+| **Meridian** | Plataforma SaaS empresarial impulsada por IA | [Abrir aplicación](https://meridian-completo.vercel.app) |
+| **Meridian Showcase** | Presentación pública, arquitectura y roadmap del producto | [Ver repositorio](https://github.com/christiandejesus320-droid/-meridian-showcase) |
+| **Meridian Design 2v1** | Experiencia creativa con diseño, IA, 3D, marketing y demo interactiva | [Ver repositorio](https://github.com/christiandejesus320-droid/Meridian-Design-2v1) |
+| **Nexus Super Skill** | Sistema de Skills, memoria, verificación y ejecución asistida | [Ver repositorio](https://github.com/christiandejesus320-droid/nexus-super-skill) |
 
-## Principios de ingeniería
+## Mi forma de trabajar
 
-- **Seguridad por diseño:** aislamiento estricto por workspace y acceso controlado a operaciones sensibles.
-- **IA como capa operativa:** los modelos utilizan tools y permisos explícitos, no acceso libre.
-- **Independencia de proveedores:** Meridian puede enrutar trabajo entre distintos proveedores e integraciones.
-- **Ejecución orientada a producto:** interfaces confiables, observabilidad y valor medible para el usuario.
-- **Desarrollo no destructivo:** preservar trabajo existente, verificar cambios y mantener capacidad de reversión.
+- **Construir antes que aparentar.** Prefiero una función real y comprobable antes que una promesa bonita.
+- **Aprender haciendo.** Cada error debe producir conocimiento, documentación o una mejora.
+- **Seguridad por diseño.** Los datos, permisos y secretos deben tratarse como parte central del producto.
+- **IA con control.** Los modelos deben operar mediante herramientas y permisos explícitos.
+- **Evolución constante.** Un producto nunca está terminado; se observa, se corrige y se mejora.
 
-## Actividad en GitHub
+## Conecta conmigo
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=christiandejesus320-droid&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF66&icon_color=00FF66&text_color=D8E8DE" alt="Estadísticas de GitHub de Christian" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiandejesus320-droid&layout=compact&hide_border=true&bg_color=050505&title_color=00FF66&text_color=D8E8DE" alt="Lenguajes más utilizados" />
+
+[![Instagram](https://img.shields.io/badge/Instagram-____christian__noir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/____christian_noir/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20de%20Jesús-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-de-jesus-307922260/)
+[![Website](https://img.shields.io/badge/Web-Christian%20Studio-00FF66?style=for-the-badge&logo=googlechrome&logoColor=050505)](https://christianstudio.forum/)
+[![Email](https://img.shields.io/badge/Email-christiandejesus320%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiandejesus320@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-christiandejesus320--droid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christiandejesus320-droid)
+
 </div>
 
 ---
 
 <div align="center">
   <strong>Christian Junior de Jesús</strong><br />
-  Founder & CEO · Meridian<br /><br />
-  <a href="https://meridian-completo.vercel.app">Abrir Meridian</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/christiandejesus320-droid/-meridian-showcase">Product showcase</a>
+  Fundador y CEO de Meridian<br />
+  Santo Domingo, República Dominicana<br /><br />
+  <em>Construyendo con lo que tengo. Aprendiendo lo que falta. Sin abandonar la visión.</em>
 </div>
