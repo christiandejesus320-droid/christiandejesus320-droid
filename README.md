@@ -1,29 +1,18 @@
-<pre align="center">
-███╗   ███╗███████╗██████╗ ██╗██████╗ ██╗ █████╗ ███╗   ██╗
-████╗ ████║██╔════╝██╔══██╗██║██╔══██╗██║██╔══██╗████╗  ██║
-██╔████╔██║█████╗  ██████╔╝██║██║  ██║██║███████║██╔██╗ ██║
-██║╚██╔╝██║██╔══╝  ██╔══██╗██║██║  ██║██║██╔══██║██║╚██╗██║
-██║ ╚═╝ ██║███████╗██║  ██║██║██████╔╝██║██║  ██║██║ ╚████║
-╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-===========================================================
-     B U I L D I N G   T H E   O P E R A T I N G   L A Y E R
-===========================================================
-</pre>
-
 <div align="center">
+  <img src="./assets/meridian-agent-terminal.svg" width="100%" alt="Christian Junior de Jesús — Meridian creator console and agent map" />
 
-[![Meridian](https://img.shields.io/badge/CONSTRUYENDO-MERIDIAN-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://meridian-completo.vercel.app)
-[![Showcase](https://img.shields.io/badge/VER-SHOWCASE-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/-meridian-showcase)
-[![Meridian Design](https://img.shields.io/badge/EXPLORAR-MERIDIAN%20DESIGN-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/Meridian-Design-2v1)
+  <br />
 
-<br />
+  [![Meridian](https://img.shields.io/badge/OPEN-MERIDIAN-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://meridian-completo.vercel.app)
+  [![Ecosystem Hub](https://img.shields.io/badge/EXPLORE-ECOSYSTEM%20HUB-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/-meridian-showcase)
+  [![Meridian Design](https://img.shields.io/badge/VIEW-MERIDIAN%20DESIGN-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/Meridian-Design-2v1)
 
-[![Instagram](https://img.shields.io/badge/Instagram-____christian__noir-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.instagram.com/____christian_noir/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20de%20Jesús-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.linkedin.com/in/christian-de-jesus-307922260/)
-[![Website](https://img.shields.io/badge/Web-Christian%20Studio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://christianstudio.forum/)
-[![Email](https://img.shields.io/badge/Email-christiandejesus320%40gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](mailto:christiandejesus320@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-christiandejesus320--droid-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid)
+  <br />
 
+  [![Instagram](https://img.shields.io/badge/Instagram-____christian__noir-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.instagram.com/____christian_noir/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20de%20Jesús-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.linkedin.com/in/christian-de-jesus-307922260/)
+  [![Website](https://img.shields.io/badge/Web-Christian%20Studio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://christianstudio.forum/)
+  [![Email](https://img.shields.io/badge/Email-christiandejesus320%40gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](mailto:christiandejesus320@gmail.com)
 </div>
 
 ---
@@ -42,28 +31,67 @@ Para mí, Meridian no es solamente software. Representa años de aprendizaje, di
 
 ---
 
-## 02 / LO QUE ESTOY CONSTRUYENDO
+## 02 / MERIDIAN
+
+**Meridian se está construyendo como un sistema operativo espacial B2B:** una capa unificada para trabajo, clientes, conocimiento, datos, automatización e inteligencia artificial.
+
+Su arquitectura conecta una experiencia basada en bloques con un orquestador de agentes, herramientas autorizadas, integraciones externas y verificación antes de ejecutar acciones sensibles.
+
+```text
+christian@meridian:~$ meridian start
+
+  (o_o)   Meridian está listo.
+  /|_|\   Contexto conectado.
+   / \    Agentes en espera.
+
+BLOCKS → CONTEXT → AGENTS → TOOLS → VERIFIED EXECUTION
+```
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>MERIDIAN</h3>
-      <p>Una plataforma SaaS empresarial que reúne AI Workspace, CRM, tareas, notas, calendario, analítica, automatizaciones, Skills, integraciones y gestión de equipos dentro de un solo entorno.</p>
-      <p><strong>Visión:</strong> reemplazar herramientas desconectadas por un sistema operativo inteligente para el trabajo y el negocio.</p>
+      <h3>PRODUCT SYSTEM</h3>
+      <p>AI Workspace, CRM, tareas, notas, calendario, analítica, automatizaciones, Skills, integraciones y gestión de equipos dentro de un solo workspace.</p>
       <a href="https://meridian-completo.vercel.app"><strong>ABRIR MERIDIAN →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>MERIDIAN DESIGN</h3>
-      <p>La capa visual y creativa del ecosistema Meridian: diseño gráfico asistido por IA, experiencias 3D, campañas, marketing, producto interactivo y una presentación editorial del sistema.</p>
-      <p>Incluye una experiencia web responsive, portfolio visual, demostración del producto, recursos, videos UGC y un chat público conectado de forma segura.</p>
-      <a href="https://github.com/christiandejesus320-droid/Meridian-Design-2v1"><strong>EXPLORAR MERIDIAN DESIGN →</strong></a>
+      <h3>ECOSYSTEM HUB</h3>
+      <p>La presentación técnica que conecta mi perfil con la arquitectura, los agentes, la seguridad, el roadmap y la dirección visual de Meridian.</p>
+      <a href="https://github.com/christiandejesus320-droid/-meridian-showcase"><strong>INSPECCIONAR HUB →</strong></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 03 / QUÉ HAGO
+## 03 / AGENT CONSOLE
+
+La interfaz de agentes usa un lenguaje retro de píxeles para comunicar estados técnicos sin esconder la complejidad del sistema.
+
+| State | Meaning | Interface response |
+|---|---|---|
+| `idle` | Esperando contexto | Mascota neutral y controles disponibles |
+| `thinking` | Planificando y delegando | Etapa actual y progreso verificable |
+| `running` | Tool o subagente ejecutando | Tool, alcance y duración |
+| `success` | Resultado verificado | Evidencia y siguiente acción |
+| `error` | Ejecución bloqueada o fallida | Recuperación segura y reintento |
+| `approval_required` | Escritura sensible | Preview y aprobación explícita |
+
+```tsx
+const MASCOT_COPY = {
+  idle: "Meridian está listo.",
+  thinking: "Organizando contexto y agentes…",
+  running: "Ejecutando una tarea autorizada…",
+  success: "Resultado verificado.",
+  error: "La ejecución fue detenida de forma segura.",
+};
+```
+
+La telemetría en tiempo real está documentada como contrato visual en el [Meridian Ecosystem Hub](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/AGENT-RUNTIME.md); no presento métricas o actividad live que no estén conectadas realmente.
+
+---
+
+## 04 / QUÉ HAGO
 
 <table>
   <tr>
@@ -83,7 +111,7 @@ Para mí, Meridian no es solamente software. Representa años de aprendizaje, di
   <tr>
     <td valign="top">
       <strong>DISEÑO</strong><br /><br />
-      Creo identidad visual, experiencias digitales, campañas y conceptos de producto.
+      Creo identidad visual, sistemas de interfaz, experiencias espaciales y conceptos de producto.
     </td>
     <td valign="top">
       <strong>SISTEMAS</strong><br /><br />
@@ -98,7 +126,7 @@ Para mí, Meridian no es solamente software. Representa años de aprendizaje, di
 
 ---
 
-## 04 / TECNOLOGÍAS PRINCIPALES
+## 05 / TECNOLOGÍAS PRINCIPALES
 
 <div align="center">
 
@@ -123,24 +151,24 @@ Para mí, Meridian no es solamente software. Representa años de aprendizaje, di
 | `Tailwind CSS` | Sistema visual responsive | [tailwindcss.com](https://tailwindcss.com/) |
 | `Prisma` | ORM y acceso tipado a datos | [prisma.io](https://www.prisma.io/) |
 | `PostgreSQL` | Base de datos relacional | [postgresql.org](https://www.postgresql.org/) |
-| `Supabase` | Plataforma administrada de datos | [supabase.com](https://supabase.com/) |
+| `Supabase` | Hosting administrado de PostgreSQL | [supabase.com](https://supabase.com/) |
 | `Vercel` | Despliegue de la aplicación | [vercel.com](https://vercel.com/) |
 | `Docker` | Entornos y contenedores | [docker.com](https://www.docker.com/) |
 
 ---
 
-## 05 / PROYECTOS DESTACADOS
+## 06 / PROYECTOS DESTACADOS
 
 | Proyecto | Descripción | Acceso |
 |---|---|---|
-| **Meridian** | Plataforma SaaS empresarial impulsada por IA | [ABRIR](https://meridian-completo.vercel.app) |
-| **Meridian Showcase** | Presentación pública, arquitectura y roadmap del producto | [INSPECCIONAR](https://github.com/christiandejesus320-droid/-meridian-showcase) |
+| **Meridian** | Sistema operativo espacial B2B impulsado por IA | [ABRIR](https://meridian-completo.vercel.app) |
+| **Meridian Ecosystem Hub** | Arquitectura pública, agentes, seguridad, interfaz y roadmap | [INSPECCIONAR](https://github.com/christiandejesus320-droid/-meridian-showcase) |
 | **Meridian Design 2v1** | Experiencia creativa con diseño, IA, 3D, marketing y demo interactiva | [EXPLORAR](https://github.com/christiandejesus320-droid/Meridian-Design-2v1) |
 | **Nexus Super Skill** | Sistema de Skills, memoria, verificación y ejecución asistida | [VER](https://github.com/christiandejesus320-droid/nexus-super-skill) |
 
 ---
 
-## 06 / MI FORMA DE TRABAJAR
+## 07 / MI FORMA DE TRABAJAR
 
 - **Construir antes que aparentar.** Prefiero una función real y comprobable antes que una promesa bonita.
 - **Aprender haciendo.** Cada error debe producir conocimiento, documentación o una mejora.
@@ -150,7 +178,7 @@ Para mí, Meridian no es solamente software. Representa años de aprendizaje, di
 
 ---
 
-## 07 / CONECTA CONMIGO
+## 08 / CONECTA CONMIGO
 
 <table>
   <tr>
@@ -185,9 +213,9 @@ Para mí, Meridian no es solamente software. Representa años de aprendizaje, di
 <div align="center">
 
 **CHRISTIAN JUNIOR DE JESÚS**  
-Fundador y CEO de Meridian  
-Santo Domingo, República Dominicana
+Founder & Principal Architect of Meridian  
+Santo Domingo, Dominican Republic
 
-`CONSTRUYENDO CON LO QUE TENGO. APRENDIENDO LO QUE FALTA. SIN ABANDONAR LA VISIÓN.`
+`BUILDING WITH WHAT I HAVE. LEARNING WHAT IS MISSING. NOT ABANDONING THE VISION.`
 
 </div>
