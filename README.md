@@ -7,6 +7,7 @@
   [![Ecosystem Hub](https://img.shields.io/badge/EXPLORE-ECOSYSTEM%20HUB-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/-meridian-showcase)
   [![Meridian Design](https://img.shields.io/badge/VIEW-MERIDIAN%20DESIGN-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/Meridian-Design-2v1)
   [![Code Agent](https://img.shields.io/badge/READ-CODE%20AGENT-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/MERIDIAN-CODE-AGENT.md)
+  [![Semantic Routing](https://img.shields.io/badge/READ-SEMANTIC%20ROUTING%20%2B%20MCP-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/SEMANTIC-ROUTING-MCP.md)
   [![ElevenLabs Voice](https://img.shields.io/badge/VOICE-ELEVENLABS-FFFFFF?style=for-the-badge&logo=elevenlabs&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/MERIDIAN-VOICE-ENGINE.md)
 
   <br />
@@ -155,7 +156,95 @@ Estados visuales de MERI para voz: `idle`, `listening`, `transcribing`, `thinkin
 
 ---
 
-## 06 / QUÉ HAGO
+## 06 / THE LIBRARIAN — SEMANTIC ROUTING + MCP
+
+<div align="center">
+  <img src="./assets/librarian-semantic-routing.svg" width="100%" alt="Meridian Librarian architecture: skill index, semantic router, scoped workers and MCP server" />
+</div>
+
+> **Construyendo Meridian: el sistema operativo espacial B2B impulsado por orquestación multiagente y Model Context Protocol.**
+
+No estoy construyendo simples wrappers de IA. Estoy diseñando un sistema cognitivo distribuido que trata el contexto como un recurso limitado y verificable.
+
+La arquitectura usa el paradigma del **Bibliotecario**:
+
+- el orquestador no carga miles de skills completas dentro del prompt;
+- primero lee un índice reducido con nombres, descripciones, versiones, permisos y costes;
+- clasifica la intención del usuario;
+- selecciona la skill correcta;
+- carga su contexto bajo demanda;
+- crea un worker especializado;
+- ejecuta tools mediante un servidor MCP sujeto a políticas;
+- verifica la evidencia antes de presentar el resultado.
+
+```text
+USER INTENT
+    ↓
+SEMANTIC ROUTER
+    ↓
+SKILL INDEX / METADATA
+    ↓
+POLICY + PERMISSION CHECK
+    ↓
+LAZY SKILL LOADER
+    ↓
+SPECIALIZED WORKER
+    ↓
+MCP TOOL PROXY
+    ↓
+VERIFICATION
+    ↓
+PREVIEW → APPROVAL → EXECUTION
+```
+
+### Lectura del lomo del libro
+
+El Agente Orquestador empieza leyendo únicamente los metadatos: el equivalente digital al lomo de cada libro. Solo abre el contenido completo cuando la tarea lo justifica.
+
+Este enfoque busca:
+
+- reducir saturación de contexto;
+- bajar consumo de tokens;
+- evitar conflictos entre instrucciones;
+- mejorar la selección de herramientas;
+- mantener trazabilidad y permisos.
+
+No afirmo que esto produzca “cero alucinaciones” o precisión absoluta. Ninguna arquitectura garantiza eso. Meridian se diseña para **reducir el riesgo, limitar el contexto y exigir verificación basada en evidencia**.
+
+### Enjambre multiagente
+
+```text
+PRIMARY ORCHESTRATOR
+    ├── CODE WORKER
+    ├── DESIGN WORKER
+    ├── RESEARCH WORKER
+    ├── DATA WORKER
+    ├── VOICE WORKER
+    └── VERIFICATION WORKER
+```
+
+Los workers pueden operar sobre terminal, filesystem, web, datos o contexto espacial únicamente dentro de sandboxes, rutas, allowlists, permisos y scopes aprobados.
+
+### Routing dinámico y secretos
+
+Las claves de Supabase, Resend, ElevenLabs y proveedores de modelos permanecen en el servidor. El patrón preferido no es entregar las API keys en texto plano al agente: el worker solicita una tool, el servidor MCP valida el permiso, ejecuta la llamada y devuelve un resultado normalizado.
+
+```text
+LONG-LIVED SECRET
+    stays server-side
+          ↓
+SCOPED TOOL CAPABILITY
+          ↓
+ONE TASK / ONE WORKSPACE / LIMITED TIME
+```
+
+Meridian podrá enrutar tareas entre diferentes modelos según capacidad, coste, latencia, tools, privacidad y tipo de trabajo. La compatibilidad futura dependerá de adaptadores y contratos verificables, no de una promesa automática.
+
+[**LEER LA ARQUITECTURA COMPLETA DEL BIBLIOTECARIO →**](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/SEMANTIC-ROUTING-MCP.md)
+
+---
+
+## 07 / QUÉ HAGO
 
 <table>
   <tr>
@@ -190,7 +279,7 @@ Estados visuales de MERI para voz: `idle`, `listening`, `transcribing`, `thinkin
 
 ---
 
-## 07 / TECNOLOGÍAS PRINCIPALES
+## 08 / TECNOLOGÍAS PRINCIPALES
 
 <div align="center">
 
@@ -220,15 +309,17 @@ Estados visuales de MERI para voz: `idle`, `listening`, `transcribing`, `thinkin
 | `Vercel` | Despliegue de la aplicación | [vercel.com](https://vercel.com/) |
 | `Docker` | Entornos y contenedores | [docker.com](https://www.docker.com/) |
 | `ElevenLabs` | Capa de voz planificada con control del usuario | [elevenlabs.io](https://elevenlabs.io/) |
+| `MCP` | Contrato de tools y ejecución con permisos | Arquitectura del ecosistema Meridian |
 
 ---
 
-## 08 / PROYECTOS DESTACADOS
+## 09 / PROYECTOS DESTACADOS
 
 | Proyecto | Descripción | Acceso |
 |---|---|---|
 | **Meridian** | Sistema operativo espacial B2B impulsado por IA | [ABRIR](https://meridian-completo.vercel.app) |
 | **Meridian Code Agent** | Entorno multiagente para planificar, diseñar, programar, verificar y preparar aplicaciones | [LEER](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/MERIDIAN-CODE-AGENT.md) |
+| **The Librarian / Semantic Routing + MCP** | Índice semántico, carga lazy de skills, workers especializados y tools con políticas | [LEER](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/SEMANTIC-ROUTING-MCP.md) |
 | **Meridian Voice Engine** | Interfaz de voz controlada por el usuario con ElevenLabs | [LEER](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/MERIDIAN-VOICE-ENGINE.md) |
 | **Meridian Ecosystem Hub** | Arquitectura pública, agentes, seguridad, interfaz y roadmap | [INSPECCIONAR](https://github.com/christiandejesus320-droid/-meridian-showcase) |
 | **Meridian Design 2v1** | Experiencia creativa con diseño, IA, 3D, marketing y demo interactiva | [EXPLORAR](https://github.com/christiandejesus320-droid/Meridian-Design-2v1) |
@@ -236,7 +327,7 @@ Estados visuales de MERI para voz: `idle`, `listening`, `transcribing`, `thinkin
 
 ---
 
-## 09 / MI FORMA DE TRABAJAR
+## 10 / MI FORMA DE TRABAJAR
 
 - **Construir antes que aparentar.** Prefiero una función real y comprobable antes que una promesa bonita.
 - **Aprender haciendo.** Cada error debe producir conocimiento, documentación o una mejora.
@@ -246,7 +337,7 @@ Estados visuales de MERI para voz: `idle`, `listening`, `transcribing`, `thinkin
 
 ---
 
-## 10 / GITHUB GROWTH
+## 11 / GITHUB GROWTH
 
 No agrego insignias falsas al README. Los logros de GitHub deben provenir de actividad real dentro de la plataforma.
 
@@ -263,7 +354,7 @@ Estoy preparando mis repositorios públicos para recibir colaboración verificab
 
 ---
 
-## 11 / CONECTA CONMIGO
+## 12 / CONECTA CONMIGO
 
 <table>
   <tr>
@@ -302,5 +393,9 @@ Founder & Principal Architect of Meridian
 Santo Domingo, Dominican Republic
 
 `BUILDING WITH WHAT I HAVE. LEARNING WHAT IS MISSING. NOT ABANDONING THE VISION.`
+
+<br />
+
+*Building the operating layer of tomorrow. Ecosystem documentation: online.*
 
 </div>
