@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="./assets/meridian-agent-terminal.svg" width="100%" alt="Christian Junior de Jesús — Meridian creator console and agent map" />
+  <img src="./assets/meridian-code-voice.svg" width="100%" alt="Meridian Code Agent and ElevenLabs Voice Engine with red pixel agent MERI" />
 
   <br />
 
   [![Meridian](https://img.shields.io/badge/OPEN-MERIDIAN-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://meridian-completo.vercel.app)
   [![Ecosystem Hub](https://img.shields.io/badge/EXPLORE-ECOSYSTEM%20HUB-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/-meridian-showcase)
   [![Meridian Design](https://img.shields.io/badge/VIEW-MERIDIAN%20DESIGN-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/Meridian-Design-2v1)
+  [![Code Agent](https://img.shields.io/badge/READ-CODE%20AGENT-FFFFFF?style=for-the-badge&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/MERIDIAN-CODE-AGENT.md)
+  [![ElevenLabs Voice](https://img.shields.io/badge/VOICE-ELEVENLABS-FFFFFF?style=for-the-badge&logo=elevenlabs&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/MERIDIAN-VOICE-ENGINE.md)
 
   <br />
 
@@ -66,7 +68,7 @@ BLOCKS → CONTEXT → AGENTS → TOOLS → VERIFIED EXECUTION
 
 ## 03 / AGENT CONSOLE
 
-La interfaz de agentes usa un lenguaje retro de píxeles para comunicar estados técnicos sin esconder la complejidad del sistema.
+La interfaz de agentes usa un lenguaje retro de píxeles para comunicar estados técnicos sin esconder la complejidad del sistema. **MERI**, el operador visual de Meridian, utiliza rojo `#FF3347` como color de identidad sobre superficies OLED negras.
 
 | State | Meaning | Interface response |
 |---|---|---|
@@ -91,7 +93,69 @@ La telemetría en tiempo real está documentada como contrato visual en el [Meri
 
 ---
 
-## 04 / QUÉ HAGO
+## 04 / MERIDIAN CODE AGENT
+
+> **Estado:** arquitectura y experiencia en desarrollo.
+
+**Meridian Code Agent** será un entorno de ingeniería asistida capaz de convertir una idea, documento o referencia visual en una aplicación verificable. No está diseñado para responder únicamente con fragmentos de código: deberá inspeccionar el proyecto, crear un plan, modificar archivos, ejecutar verificaciones y mostrar una vista previa antes de preparar un Pull Request o despliegue.
+
+```text
+DESCRIBE → PLAN → DESIGN → CODE → PREVIEW → VERIFY → SHIP
+```
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>PLAN MODE</strong><br /><br />Lee el repositorio, detecta stack, dependencias, riesgos y archivos afectados sin modificar nada.</td>
+    <td width="33%" valign="top"><strong>AGENT MODE</strong><br /><br />Ejecuta un plan aprobado, modifica archivos, muestra diffs y corre typecheck, lint y build.</td>
+    <td width="33%" valign="top"><strong>DESIGN MODE</strong><br /><br />Analiza referencias, crea tokens, componentes, responsive, accesibilidad y motion.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>DEBUG MODE</strong><br /><br />Reproduce errores, identifica causa raíz y verifica regresiones.</td>
+    <td valign="top"><strong>LIVE PREVIEW</strong><br /><br />Muestra desktop, tablet, móvil, rutas, consola y errores de runtime.</td>
+    <td valign="top"><strong>SAFE EXECUTION</strong><br /><br />Las instalaciones, migraciones, eliminaciones, push y deploy requieren aprobación.</td>
+  </tr>
+</table>
+
+Agentes previstos: `architect`, `designEngineer`, `frontendEngineer`, `backendEngineer`, `securityReviewer`, `testEngineer` y `visualVerifier`.
+
+[**LEER ARQUITECTURA COMPLETA DEL CODE AGENT →**](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/MERIDIAN-CODE-AGENT.md)
+
+---
+
+## 05 / MERIDIAN VOICE ENGINE
+
+> **Estado:** sistema de voz con ElevenLabs en desarrollo.
+
+**Meridian Voice Engine** será la capa conversacional y de narración del producto. Permitirá escuchar respuestas extensas, dictar mensajes, seguir estados reales del Code Agent y conversar con Meridian mediante una interfaz controlada por el usuario.
+
+<div align="center">
+
+[![ElevenLabs](https://img.shields.io/badge/VOICE%20PROVIDER-ELEVENLABS-FFFFFF?style=for-the-badge&logo=elevenlabs&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://elevenlabs.io/)
+
+</div>
+
+```text
+USER ACTION → MICROPHONE / PLAY → SERVER ROUTE → ELEVENLABS → AUDIO + CAPTIONS
+```
+
+Principios obligatorios:
+
+- **sin autoplay**;
+- botón de voz por mensaje;
+- pausa, detener e interrupción inmediata;
+- transcripción y texto visibles;
+- credenciales de ElevenLabs únicamente en servidor;
+- fallback de texto cuando el audio falle;
+- límites de uso por usuario o workspace;
+- sin almacenamiento de audio por defecto.
+
+Estados visuales de MERI para voz: `idle`, `listening`, `transcribing`, `thinking`, `speaking`, `paused`, `success` y `error`.
+
+[**LEER ARQUITECTURA COMPLETA DEL VOICE ENGINE →**](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/MERIDIAN-VOICE-ENGINE.md)
+
+---
+
+## 06 / QUÉ HAGO
 
 <table>
   <tr>
@@ -126,7 +190,7 @@ La telemetría en tiempo real está documentada como contrato visual en el [Meri
 
 ---
 
-## 05 / TECNOLOGÍAS PRINCIPALES
+## 07 / TECNOLOGÍAS PRINCIPALES
 
 <div align="center">
 
@@ -140,6 +204,7 @@ La telemetría en tiempo real está documentada como contrato visual en el [Meri
 [![Vercel](https://img.shields.io/badge/Vercel-Deployment-FFFFFF?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://vercel.com/)
 [![Docker](https://img.shields.io/badge/Docker-Containers-FFFFFF?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://www.docker.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Engineering-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://github.com/)
+[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice-FFFFFF?style=for-the-badge&logo=elevenlabs&logoColor=FFFFFF&labelColor=30363D&color=0D1117)](https://elevenlabs.io/)
 
 </div>
 
@@ -154,21 +219,24 @@ La telemetría en tiempo real está documentada como contrato visual en el [Meri
 | `Supabase` | Hosting administrado de PostgreSQL | [supabase.com](https://supabase.com/) |
 | `Vercel` | Despliegue de la aplicación | [vercel.com](https://vercel.com/) |
 | `Docker` | Entornos y contenedores | [docker.com](https://www.docker.com/) |
+| `ElevenLabs` | Capa de voz planificada con control del usuario | [elevenlabs.io](https://elevenlabs.io/) |
 
 ---
 
-## 06 / PROYECTOS DESTACADOS
+## 08 / PROYECTOS DESTACADOS
 
 | Proyecto | Descripción | Acceso |
 |---|---|---|
 | **Meridian** | Sistema operativo espacial B2B impulsado por IA | [ABRIR](https://meridian-completo.vercel.app) |
+| **Meridian Code Agent** | Entorno multiagente para planificar, diseñar, programar, verificar y preparar aplicaciones | [LEER](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/MERIDIAN-CODE-AGENT.md) |
+| **Meridian Voice Engine** | Interfaz de voz controlada por el usuario con ElevenLabs | [LEER](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/docs/MERIDIAN-VOICE-ENGINE.md) |
 | **Meridian Ecosystem Hub** | Arquitectura pública, agentes, seguridad, interfaz y roadmap | [INSPECCIONAR](https://github.com/christiandejesus320-droid/-meridian-showcase) |
 | **Meridian Design 2v1** | Experiencia creativa con diseño, IA, 3D, marketing y demo interactiva | [EXPLORAR](https://github.com/christiandejesus320-droid/Meridian-Design-2v1) |
 | **Nexus Super Skill** | Sistema de Skills, memoria, verificación y ejecución asistida | [VER](https://github.com/christiandejesus320-droid/nexus-super-skill) |
 
 ---
 
-## 07 / MI FORMA DE TRABAJAR
+## 09 / MI FORMA DE TRABAJAR
 
 - **Construir antes que aparentar.** Prefiero una función real y comprobable antes que una promesa bonita.
 - **Aprender haciendo.** Cada error debe producir conocimiento, documentación o una mejora.
@@ -178,7 +246,24 @@ La telemetría en tiempo real está documentada como contrato visual en el [Meri
 
 ---
 
-## 08 / CONECTA CONMIGO
+## 10 / GITHUB GROWTH
+
+No agrego insignias falsas al README. Los logros de GitHub deben provenir de actividad real dentro de la plataforma.
+
+Estoy preparando mis repositorios públicos para recibir colaboración verificable mediante:
+
+- documentación técnica clara;
+- `CONTRIBUTING.md`;
+- issues bien definidos;
+- Pull Requests pequeños y revisables;
+- commits asociados al correo correcto de mi cuenta;
+- participación real en revisiones y Discussions.
+
+[**VER GUÍA DE CONTRIBUCIÓN DEL ECOSYSTEM HUB →**](https://github.com/christiandejesus320-droid/-meridian-showcase/blob/main/CONTRIBUTING.md)
+
+---
+
+## 11 / CONECTA CONMIGO
 
 <table>
   <tr>
